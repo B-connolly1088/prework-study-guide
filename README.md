@@ -14,7 +14,7 @@ To better utilize this study guide pull op dev tools and see what you should stu
 
 ## Contribute
 
-If you would like to contribute more to this project reach out to b.connolly1088@gmail.com
+If you would like to contribute more to this project reach out to b.connolly1088@gmail.com.
 
 ## Credits
 
